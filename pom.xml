@@ -7,9 +7,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
   <groupId>com.maven.test</groupId>
-  <artifactId>rest-jpa-query-oracle</artifactId>
+  <artifactId>rest-entitymanager-query-oracle</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>rest-jpa-query-oracle</name>
+  <name>rest-entitymanager-query-oracle</name>
   <properties>
 		<java.version>1.8</java.version>
 		<spring-boot-admin.version>2.1.5</spring-boot-admin.version>
